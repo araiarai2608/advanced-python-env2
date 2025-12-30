@@ -1,0 +1,5 @@
+a = input()
+count = a.count(":")
+a = a.replace(":", "%")
+print(a)
+print(count)

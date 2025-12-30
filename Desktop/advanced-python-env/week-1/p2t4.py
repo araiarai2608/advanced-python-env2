@@ -1,0 +1,6 @@
+a = input()
+count = a.count("a")
+a = a.replace("a", "o")
+print(a)
+print(count)
+print(len(a))
